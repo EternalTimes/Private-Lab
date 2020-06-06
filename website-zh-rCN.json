@@ -1,0 +1,340 @@
+{
+    "title": "Stellio 播放器 - 从设备或 VK 上播放音乐",
+    "menu": {
+        "index": "Stellio",
+        "widgets": "小工具",
+        "hi_res": "Hi-Res",
+        "why": "功能",
+        "vk": "VKontakte",
+        "themes": "主题",
+        "faq": "FAQ",
+        "buy": "购买",
+        "contacts": "Kontakte"
+    },
+    "player": {
+        "name": "Stellio 播放器",
+        "fullName": "Stellio 音乐播放器"
+    },
+    "elements": {
+        "size": "大小",
+        "demoTrack": "下载演示曲目 (.flac）",
+        "stellioPremium": "Stellio 高级版",
+        "allInclusive": "全部包含",
+        "or": "或",
+        "premium": "高级版",
+        "free": "免费",
+        "buy": "购买",
+        "noBuy": "不要购买",
+        "more": "更多",
+        "addToBasket": "加入购物车",
+        "delFromBasket": "从购物车移除",
+        "install": "安装",
+        "search": "搜索..",
+        "submit": "发送",
+        "price": "价格",
+        "purchase": "购买",
+        "sale": "促销",
+        "total": "总计",
+        "emptyBasket": "购物车为空",
+        "yourMail": "您的 E-mail",
+        "yourName": "您的名字",
+        "yourMess": "您的讯息",
+        "toPay": "去支付",
+        "pay": "支付",
+        "purchaseStellio": "购买 Stellio 音乐播放器",
+        "orderProcessed": "恭喜！<br/>您已成功订购。在完成付款后您将会收到激活码",
+        "detailedInstructions": "若您想详细了解激活过程，请访问我们的网站",
+        "activationInstructions": "正确激活步骤：<br/>1. 请在 Google Play 或从我们的网站 <a href=\"http://stellio.ru\" target=\"_blank\" style=''>stellio.ru</a> 安装下载本软件的最新版本<br/>2. 请确保您的设备处于一个良好的网络环境下<br/>3. 为防止在输入激活码时出错，请复制并粘贴激活码<br/><br/>如果您在激活过程中遇到任何问题，或者您想将您的激活码绑定于其他设备，请使用此服务：<a href=\"http://stellio.ru/upd_key\" target=\"_blank\" style=''>stellio.ru/upd_key</a><br/>如果您遇到了任何问题，请于以下方式联系我们"
+    },
+    "page": {
+        "palyerName": "Stellio 播放器",
+        "whyTitle": "为什么选择 Stellio？",
+        "playerDescription": "播放器领域中的弄潮者。<br/>音质极佳，<br/>美观的用户界面",
+        "whyDescription": "Stellio — 高级音乐播放器，携有强大音效、美妙主题、丰富音频设置及 VK 音乐集成。",
+        "usp1": "播放器",
+        "usp1Description": "为了获得最高质量的声音，我们拥有强大的音频控制引擎，该引擎可控制12频段的均衡器并具有多种音效。",
+        "usp2": "VK 音乐",
+        "usp2Description": "通过缓存音乐使您可以不受时间限制地享受您喜爱的音乐",
+        "usp3": "主题",
+        "usp3Description": "高级外观",
+        "characteristics": {
+            "title": "播放器特性",
+            "description": "Stellio具有12种均衡器，具有多种音频效果，可通过手动或预设使用它来完全自由地进行实验。<br/><br/>渐入渐出效果使声音更令人愉悦-从一首歌曲平稳切换到另一首歌曲。 相反，无间隙播放曲目之间没有最小的间隙。<br/><br/>除了强大的设置外，播放器还有很多不同的有用功能：",
+            "items": {
+                "lyrics": [
+                    "歌词",
+                    "View lyrics from internet with offline access after"
+                ],
+                "cover": [
+                    "封面<br/>选择",
+                    "Use convenient search of covers from internet or trust it for the player"
+                ],
+                "tag": [
+                    "编辑<br/>标签",
+                    "Put names in order with help of the handy tag editor"
+                ],
+                "music_note": [
+                    "音乐<br/>分类",
+                    "按专辑、艺术家、风格或文件夹播放音乐"
+                ],
+                "flac": [
+                    "大量<br/>音频格式",
+                    "In addition to popular audio formats, FLAC, MP3, CUE, APE, M4A and others are supported."
+                ],
+                "watch": [
+                    "Android Wear<br/>扩展",
+                    "Control music from your watches, pick a track, all without taking a phone out of a pocket!"
+                ],
+                "hi_res": [
+                    "最好的<br/>音质",
+                    "高音质音乐播放"
+                ],
+                "timer": [
+                    "睡眠<br/>计时器",
+                    "Set sleep timer for certain amount of tracks or minutes"
+                ],
+                "settings": [
+                    "设置",
+                    "Huge amount of settings, like list animation or lock screen"
+                ],
+                "controls": [
+                    "小工具和<br/>通知",
+                    "Change appearance of widgets and notifications"
+                ],
+                "headphones": [
+                    "便于<br/>控制",
+                    "Switch track with help of a headset, shake the phone or by volume buttons"
+                ]
+            }
+        },
+        "vkTitle": "VK 音乐",
+        "vkDescription": "Stellio is one of the best music players for the social network VKontakte. All music collection is available again without any restrictions.<br/><br/>With Stellio you will get simple and fast access to your audios. Enjoy your favorite tracks, new tracks and personal recommendations!<br/><br/>Possibilities with gives Stellio Music:<ul><li>Save music for offline listening</li><li>Create playlists</li><li>Wide music collection</li><li>Convenient and functional player with an equalizer</li><li>Albums of artists and author's collections, which can be found in official groups of artists</li><li>Personal recommendations</li><li>Extended search</li><li>Collection of music of your friends and communities</li><li>Broadcast music to status of your profile</li></ul><br/><u>Download the .APK plug-in from our site for VK integration</u>:",
+        "themes": {
+            "title": "主题",
+            "description": "The power of the player is packed in the most convenient interface. We pay special attention to design — every detail is well thought through. Out unique feature is changing color of elements to match the cover of a track for deeper immersion in music atmosphere. Exactly because of it the chameleon is on the icon of Stellio.<br/><br/>For those want more than standard appearance, there's ability to pick different interface among additional themes, which not simple change color, but completely reincarnate appearance of the player!",
+            "items": {
+                "thegrand": {
+                    "short_description": "Theme in gorgeous snow tones for Stellio Player with a counter of listened tracks",
+                    "full_description": "<b>Features:</b><br/>– Counter of listened time<br/>– Counter of listened tracks<br/>– Switching tracks from the list with a swipe"
+                },
+                "exoblur": {
+                    "short_description": "Premium Theme with graceful visualizer on the main screen and elegant blur",
+                    "full_description": "Features:</b><br/>– Visualizer on the main screen <br/>– Progress bar around the button play/pause in list"
+                },
+                "flat": {
+                    "short_description": "Paid theme for Stellio Player in the Flat Style",
+                    "full_description": "The theme is based on idea of a transparency — commonly player uses conjunction of black and white with different opacity. An innovation in the interface — rounded progress line. Volume control is on main screen for maximum usability."
+                },
+                "redline": {
+                    "short_description": "Premium theme in dark tones for Stellio Player Available only for licensed version",
+                    "full_description": "New list animation \"Redline Scale\"<br/>Elegant design geometry<br/>Dark color palette for a comfortable eyes perception"
+                },
+                "jfrost": {
+                    "short_description": "标准 Stellio 主题",
+                    "full_description": "Elegant interface<br/>Waveform progress bar on the main screen"
+                },
+                "classic": {
+                    "short_description": "One of the best themes with real Waveform progress bar on the main screen",
+                    "full_description": "First on one of the best dark themes. Progress bar on the main screen is made in form of a Waveform. Which is very convenient for orientation in a track, you can see: intro, hook, verse, etc."
+                },
+                "material": {
+                    "short_description": "Theme in the style of Android Lollipop OS (Android 5.0) from Google",
+                    "full_description": ""
+                }
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "description": "Here we collected the most popular questions and answers",
+            "questions": [
+                {
+                    "title": "播放器",
+                    "items": [
+                        {
+                            "question": "What to do if I forgot/lost an activation code?",
+                            "answer": "Write us on <a href=\"mailto:stellio.play@gmail.com\">stellio.play@gmail.com</a> from an email, where you purchased the player. We will restore the code and send it to you."
+                        },
+                        {
+                            "question": "How to pay, if I don't have a card? — Purchase outside of Google Play",
+                            "answer": "Buy an activation code on our site on enter it in the player. There're a lot of supported payment methods: Bank cards, QIWI, MTS, Megafon, WebMoney, Yandex.Money and much more."
+                        },
+                        {
+                            "question": "如何在我的其他设备上激活 Stellio Premium？",
+                            "answer": "If you bought via in-app Google Play:<br/>1. Log in Google Play account, where you have made the purchase.<br/>2. Open the player. License will be checked automatically.<br/><br/>If you have purchased an activation code:<br/>1. Settings — About — Bind code.<br/>2. Open player on another device and at the bottom of purchase page click \"Enter code\" — \"Have bound code?\" — Choose right option.<br/><br/>* Does not work with a code from AppOfTheDay"
+                        },
+                        {
+                            "question": "I can't find purchased app Stellio Unlocker or paid themes on Google Play",
+                            "answer": "Unfortunately, our old Google Play account was blocked with all apps.<br/><br/>Log in Google using the same account you made the purchase from, download and install necessary apk, everything should work:<br/><br/>1. <a href=\"https://stellio.ru/data/unlocker.apk\">Stellio Unloker.apk</a> - activates Stellio Premium (If you've purchased Unlocker)<br/>2. <a href=\"https://stellio.ru/data/unlocker_in_app.apk\">Stellio In-App Unloker.apk</a> - activates Stellio Premium (If you've made in app purchase)<br/>3. <a href=\"https://stellio.ru/data/exoblur.apk\">Stellio ExoBlur.apk</a> -  activates ExoBlur Theme<br/>4. <a href=\"https://stellio.ru/data/thegrand.apk\">Stellio TheGrand.apk</a> -  activates TheGrand Theme<br/><i>- In order to install the theme open Main menu -> Bin icon<br/>- Stellio Premium will be activated automatically</i><br/><br/>If not, write us with email of the purchase or a cheque on <a href=\"mailto:stellio.play@gmail.com\">stellio.play@gmail.com</a>, we will give you an activation code.<br/><br/>Sorry for the inconvenience :("
+                        },
+                        {
+                            "question": "The player does not accept Google Play license",
+                            "answer": "1. Ensure you logged in google play account, where you did purchase player (Settings — Accounts)<br/>2. Ensure you have internet connection<br/><br/>* LuckyPatcher and similar applications can prevent right checking of license"
+                        },
+                        {
+                            "question": "无法在新设备 / ROM 上使用代码激活播放器",
+                            "answer": "If you bound code before, then at the bottom of purchase page click \"Enter code\" — \"Have bound code?\" — pick right option.<br/>If not — <a href=\"/upd_key\">update the code on the site</a> and enter it again in the player."
+                        },
+                        {
+                            "question": "如何在 Stellio 中使用第三方均衡器？",
+                            "answer": "1. Disable the equalizer in Stellio — Equalizer=>Menu=>Disable<br/>2. If it does not help — kill and open Stellio or reboot the phone<br/><br/>* Enable compatible mode if you use ViPER4Android (ViperFX) "
+                        },
+                        {
+                            "question": "Music skips, hiccups, stutters",
+                            "answer": "Audio skipping is a complex issue, it can be generated by many factors:<br/><br/>- SD card issues (try to play same file in stock player, if it happens there as well — that's it). Can happen also if many songs/images/movies recently uploaded to the phone (stock system scanner one some devices is slow and takes a lot of SD card bandwidth)<br/><br/>- Bluetooth issues. This usually affects any player on the device. Try to Unpair, then Pair BT device again<br/><br/>- HTC Sense 4.0+Beats ROMs produces skips. Try to disable beats for Stellio<br/><br/>- additional 3rd party audio effects. Try to temporarily disable additional audio effects and check if it helps<br/><br/>- some cpu hungry apps (free app like OSMonitor can show total and per process cpu consumption and find offending app/service)<br/><br/>- some broken formats (if skipping happens for the same songs, always, and doesn't happen for others)<br/><br/>You can increase audio buffer in order to prevent stuttering via Settings => Audio => Audio buffer size"
+                        },
+                        {
+                            "question": "锁屏时音乐停止",
+                            "answer": "Check:<br/>- If your device has \"White list of apps\" then try to add the player there.<br/>- Check permission for background activity.<br/>- Try to disable player's equalizer (Equalizer — Context menu Three dots at the right top corner — Disable)."
+                        },
+                        {
+                            "question": "Which permissions has the player and why?",
+                            "answer": "READ_PHONE_STATE — 在来电时暂停播放，电话挂断后恢复播放<br/><br/>WRITE_EXTERNAL_STORAGE — 保存封面、缓存曲目、删除曲目、编辑标签。<br/><br/>INTERNET — 网络访问。用于下载封面、查看歌词及在 VK 上进行操作。<br/><br/>ACCESS_NETWORK_STATE — 查询网络可用性。<br/><br/>WRITE_SETTINGS — 用于设置音乐为铃声。<br/><br/>ACCESS_WIFI_STATE — 用于确定是否下载封面。仅当\"仅通过WiFi联网\"开启时需要。<br/><br/>RECEIVE_BOOT_COMPLETED — 用于启动背景服务以监听耳机事件。仅当 “使用头戴式设备播放歌曲”及\"使用蓝牙头戴式设备播放歌曲\"开启时需要。"
+                        }
+                    ]
+                },
+                {
+                    "title": "VK 音乐",
+                    "items": [
+                        {
+                            "question": "How to move cache on a sdcard?",
+                            "answer": "1. Move your cache to the folder you need using a file manager<br/>2. Change path to the folder with cache in the player: Settings — VKontakte — Folder for cached tracks<br/>3. Settings — VKontakte — Import cache"
+                        },
+                        {
+                            "question": "Why I am online from a computer when I use Stellio?",
+                            "answer": "Unfortunately, since there's no official API for music from VKontakte, we use \"not standard\" methods, side effect of which is online.<br/><br/>If you still want to be offline, try to avoid: My music, Friend's and Group's audios and Recommendations."
+                        },
+                        {
+                            "question": "Why there's a cover on the main screen, but not in the list?",
+                            "answer": "We get data from desktop version of the site VK, where there're no covers in high resolution. Small covers in the list are still useful.<br/><br/>If you will find big covers on the site — please let us know :)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "buy": {
+            "title": "Buy Stellio Premium",
+            "description": "Code activates Premium version, like in-app purchase Google Play.<br/>{buy_button}<br/>No ads, 5 additional themes and <u class='a pointer moreAllInclusive'>learn more..</u><hr><h3 class='center'>What's included in Stellio Premium</h3><ul><li><b>Remove ads</b><br>Get rid of all ads: banner in the list, fullscreen banner and other</li><li><b>jBlack Theme</b><br>An additional theme with the option to change the white according to system night mode{jblack_screens}</li><li><b>RedLine Theme</b><br>Also you get RedLine premium theme in dark tones{redline_screens}</li></ul>",
+            "_title": "Stellio + Widgets<br>All inclusive with 70% discount",
+            "_description": "Code activates, like in-app purchase Google Play.<br/>{buy_button}<br/>No ads, 5 additional themes and <u class='a pointer moreAllInclusive'>learn more..</u><hr><h3 class='center'>What's included in Stellio Premium</h3><ul><li><b>Remove ads</b><br>Get rid of all ads: banner in the list, fullscreen banner and other</li><li><b>jBlack Theme</b><br>An additional theme with the option to change the white according to system night mode{jblack_screens}</li><li><b>RedLine Theme</b><br>Also you get RedLine premium theme in dark tones{redline_screens}</li></ul>",
+            "descriptionEnd": "After purchase a letter will be sent to your email with the code, also will be shown instruction for activation.<br/><br/>If you have any questions or problems, write us <a href=\"mailto:stellio.play@gmail.com\">stellio.play@gmail.com</a> — we will answer within 24 hours.",
+            "stellioAllInclusiveDesc": "<li>No ads</li><li>5 additional themes:<br>Flat, ExoBlur, TheGrand,<br>Redline and jBlack</li><li>All future paid themes</li></ul>"
+        },
+        "contactsTitle": "Kontakte",
+        "contactsEmail": "电子邮件",
+        "contactsPhone": "电话号码",
+        "contactsSocial": "社交网络",
+        "contactsMessage": "您的讯息",
+        "contactsDescription": "来信询问，我们将在 48 小时内答复",
+        "copyright": "版权所有",
+        "stellioNotInstall": "If you have clicked on the button and nothing happened, then the most probably<br/>that you don't have installed Stellio Player.<br/><br/>Download and after the links will work",
+        "popupClose": "窗口将关闭于",
+        "success": {
+            "title": "感谢您的购买",
+            "description": "您的购买有助于 Stellio 播放器开发！",
+            "yourCodeFor": "Your code for",
+            "autoActivate": "Activate<br/>automatically",
+            "instructions": {
+                "step1": "在主菜单中点击 “购买”。",
+                "step2": "At the bottom of the page click \"Enter code\".",
+                "step3": "Ensure that there's internet connection. Enter the code and click check. Now you are owner of Stellio Premium.",
+                "step4": "In the main menu click on icon of a basket.",
+                "step5": "In Stellio Store find purchased theme and click \"Buy\".",
+                "step6": "Ensure that there's internet connection. Enter the code and click check. Enjoy new theme for Stellio.",
+                "step7": "On the purchase page, select \"Click to learn more\". ",
+                "step8": "Ensure that there's internet connection. Enter the code and click check. Enjoy all the features Stellio.",
+                "step9": "Go to the widget page.",
+                "step10": "At the bottom of the widget page click \"Enter code\".",
+                "step11": "Ensure that there's internet connection. Enter the code and click check. Enjoy the new pack.",
+                "step12": "On the main screen, click the button \"Buy All Inclusive\".",
+                "step13": "Ensure that there's internet connection. Enter the code and click check. Enjoy all the features of Widgets."
+            }
+        },
+        "upd_key": {
+            "title": "Update an activation code",
+            "description": "Update of code with unbind it from the device to which it is bound.<br/>It means that after the update you will be able to activate the code on a new device."
+        },
+        "give_code": {
+            "title1": "Codes for new version",
+            "title2": "Access in denied",
+            "description": "Welcome our dear user 😍<br/>Yes, we know that you have purchased smth. Thank you so much for it.<br/><br/>Unfortunately recently Stellio Player was deleted from Google Play and we had to re-upload the player as a new app. It means that in new version we can't check your in-app purchases of premium, themes.<br/><br/>Click the button \"Get codes\" - and we will generate activation code for new version of Stellio which you can download using the link below. If you have desire, you can install new version and buy everything again (not necessarily), we set minimum possible prices",
+            "downloadNew": "Download new version of Stellio Player",
+            "buttonGetCode": "<b>Get codes</b>For new version, free",
+            "yourMail": "Enter your email, we will also send codes there"
+        },
+        "donate": {
+            "title": "Support Developer",
+            "selectSum": "Choose amount",
+            "yourSum": "Your amount",
+            "donate": "Donate",
+            "top": "Top",
+            "last": "Latest",
+            "description": "Supporting us financially, you help the project in the future development<br><br>In the comments section of the payment you can write address of your web site, name or nickname. It will be displayed in the desk of donations below.<br><br>Our dear users, we at Stellio Team are very thankful for your support. Whatever you did for us: publication on your site or donation - we are super thankful for it."
+        }
+    },
+    "hiRes": {
+        "title": "Musical perfection",
+        "description": "High resolution audio allows to hear smallest<br/>details and nuances in music. Feel track exactly<br/>how their creators wanted you to.",
+        "flacVSmp3": "FLAC vs. MP3",
+        "flacVSmp3Desc": "MP3 — is good for its time, but technologies develop, new audio formats are created. For sure you like hd quality on Youtube, why not to request the same from music? You deserve Lossless and HD audio.<br/><br/>Because of new technologies a lot of devices can easily handle playback of such formats.<br/><br/>Download and try Stellio FLAC demo-track:",
+        "moreSound": "8x more audio data",
+        "howWorks": "What is Lossless and how does it work?",
+        "losslessDesc1": "Everything begins from a studio where original audio is created. It is pure, original WAV or AIFF, right from the source and ready to destribution.<br/><br/>Musicians, producers and engineers spent a lot of time and effort, using expensive tools in order to create high quality music.<br/><br/>Unline audio formats which compress with losses (MP3, AAC, WMA, Ogg Vorbis, Opus), FLAC, as well as any other Lossless, doesn't delete any audio data. When yoy play this file, quality is only restricted by your device. But such files take a lot of space. A minute of such quality usually takes 10 MB.",
+        "losslessDesc2": "Exactly here happens compression of audio. This is where «magic» helps to save quality.<br/><br/>Complex compression methods are used in Lossless formats, in order to decrease file size in the process.",
+        "losslessDesc3Title": "More than 2x compression with the same quality.",
+        "losslessDesc3": "Because of lossless you get the same sound, which was created originally, right in your headphones! There're no losses for increasing quality.",
+        "originalTrack": "Original<br/>track",
+        "popularFormats": "Popular HD audio formats of files",
+        "audioFormatsBox": {
+            "flac": "Free Lossless Audio Codec — audio format which is similar to MP3, but has<br/>an advantage which is compression without losses. Which means that<br/>the file has original quality.",
+            "alac": "Apple Lossless (also known as Apple Lossless Encoder, ALE, or Apple<br/>Lossless Audio Codec, ALAC) — open audio codec for compression without<br/>loss of quality, developed by Apple.",
+            "dsd": "Direct Stream Digital — one bit audio format, developed by companies<br/>Sony and Philips, which uses encoding of density-pulse modulation<br/>and is used to store audio on optical storage",
+            "pcm": "Pulse Code Modulation. Is used for<br/>digitization of analog signals. Almost all kinds of analog data<br/>(video, audio), is standard<br/>for cd and computers<br/>.",
+            "wav": "Waveform Audio File Format — standard for Windows based systems<br/>and is compatible with a lot of apps. WAV is not compressed<br/>and thus without losses. ",
+            "aiff": "Audio Interchange File Format — standard for audio on<br/>Mac computers. AIFF — is without compression (there's also with variant) and<br/>without losses."
+        },
+        "downloadTxt": "Enjoy uncompromising sound quality from your pocket.<br/>Stellio is a perfect app for Android. Sound quality can't<br/>be described by words, so it is time to open the player<br/>for yourself and enjoy musical power of Hi-Res quality:"
+    },
+    "apps": {
+        "widgets": {
+            "pageTitle": "Audio Widget Packs — for Stellio, Spotify, Poweramp and etc.",
+            "title": "Audio Widgets",
+            "shortDescription": "Marvelous widgets for your player 🔥<br>They are compatible with Stellio, Spotify, Poweramp and others",
+            "mainPurchasesTitle": "All widgets",
+            "purchasesTitle": "Widget Packs",
+            "purchasesDesc": "Not every player has nice and functional widgets. But now it is not a problem. Every widget pack was crafted by hands of our designers. Also we pick wallpapers for every widget pack, which are available to download and installation on your home screen.<br><br>Pick what you like:",
+            "buy": {
+                "title": "Buy All Inclusive",
+                "description": "Get access to all widgets instantly, also this works for all future paid widget packs.<br/>{buy_button}<br/>"
+            },
+            "faq": {
+                "questions": [
+                    {
+                        "title": "小工具",
+                        "items": [
+                            {
+                                "question": "Widget says \"No data\". When I click on a widgets, nothing happens",
+                                "answer": "The player should translate metadata for correct work of widgets. Currently Stelio Player, Poweramp have the best integration.<br><br>If you use Stellio - update it to the last version, and ensure that you didn't turn off Translate song metadata preference. Also you should select Stellio in Widgets app."
+                            },
+                            {
+                                "question": "How to change size of elements?",
+                                "answer": "We don't have it for now. We are planning to add: Increase size of elements, Transparent background and more widgets."
+                            },
+                            {
+                                "question": "How to use widgets with multiple players at the same time?",
+                                "answer": "We don't have this ability for now"
+                            },
+                            {
+                                "question": "How to turn off the notification?",
+                                "answer": "Unfortunately android requires notification to run background service."
+                            },
+                            {
+                                "question": "Why I can't change time on progress bar?",
+                                "answer": "Unfortunately android doesn't have this capabilities for widgets. If you find a widget that can do that - let us know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

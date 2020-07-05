@@ -1,0 +1,4 @@
+Mi Music Mod
+移除小米api，类原生可用版本
+下载链接：MIUI Music Player: https://u062.com/dir/25998143-39807635-a796c9 
+(Oringinal)Play： https://play.google.com/store/apps/details?id=com.miui.player
